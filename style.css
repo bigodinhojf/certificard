@@ -1,0 +1,88 @@
+body {
+  background-color: red;
+  font-family: DejaVu Sans Mono, monospace;
+}
+
+#geral {
+  -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.53); 
+  box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.53);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+  background-color: white;
+  margin-top: 100px;
+  padding: 15px;
+  padding-bottom: 7.5px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+section h1 {
+  font-size: 30px;
+  margin: 8px 4px;
+}
+
+header {
+  background-image: url('https://image.freepik.com/vetores-gratis/circuito-cibernetico-binario-vermelho-futuro-tecnologia-conceito-fundo_42077-2193.jpg');
+  background-size: cover;
+  height: 80px;
+  border-radius: 10px;
+}
+
+a, a:link, a:visited {
+  color: #191970; 
+  text-decoration: none;
+}
+
+#div {
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid black;
+  /* propriedade visual: valor; */
+  background-color: #bac3d6;
+  border-radius: 10px;
+}
+
+.imagem-perfil {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  transform: translateY(-75px);
+  border: 8px solid white;
+}
+
+#logos {
+  margin-left: 8px;
+}
+
+.logo {
+  width: 30px;
+  height: 30px;
+  margin-top: 2px;
+}
+
+h2 {
+  margin: 8px 0px;
+}
+
+h3 {
+  margin: 8px 0px;
+}
+
+#inicial {
+  padding-left: 5px;
+}
+
+.botao {
+  color: #191970;
+  cursor: pointer;
+}
+
+#btnVoltar {
+  margin: 0px;
+  text-align: right;
+}
